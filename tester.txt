@@ -1,0 +1,4 @@
+Please Back up your older version if you have any important data (because it is one way upgrade can't go back).
+
+Upgrade Mysql Upgrade Steps
+1 - Got to this link https://dev.mysql.com/downloads/repo/apt/ 
